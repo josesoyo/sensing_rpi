@@ -1,2 +1,5 @@
 adafruit-circuitpython-dht
+adafruit-circuitpython-bme280
 influxdb-client
+requests
+pyyaml==6.0.2

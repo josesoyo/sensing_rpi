@@ -14,5 +14,3 @@ Sensores actuales:
 
 Steps to configure the data:
 - add static ip: https://raspberrytips.com/set-static-ip-address-raspberry-pi/
-- find your external ip: https://whatismyipaddress.com/
-            para influx: 79.155.75.22:959
